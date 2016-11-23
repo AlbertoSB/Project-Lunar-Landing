@@ -12,11 +12,11 @@ En cuanto a los CSS tenemos dos versiones:
 * Una para escritorios, con una resolución mayor a 721px.
 * Una para dispoditivos móviles, con una resolución máxima de 720px.
 
-Así pues, la tarea de realizar la parte HTML y CSS del _Project Lunar Landing_ se puede dividir en 3 fases:
-1. Búsqueda y edición de las imágenes a utilizar
-2. Creación de las 3 páginas web, sin estilos
-3. Creación del documento CSS para escritorio y posterior adaptación para dispositivos móviles.
-4. Validación de los textos
+Así pues, la tarea de realizar la parte HTML y CSS del _Project Lunar Landing_ se puede dividir en 3 fases:  
+1. Búsqueda y edición de las imágenes a utilizar.  
+2. Creación de las 3 páginas web, sin estilos.  
+3. Creación del documento CSS para escritorio y posterior adaptación para dispositivos móviles.  
+4. Validación de los textos.  
 
 
 #### 1. Imágenes
