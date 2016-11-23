@@ -50,6 +50,6 @@ Este documento ha sido adaptado a dispositivos móviles reduciendo los valores d
 
 Una vez realizado todo, se ha comprobado la validez de los 5 documentos en sus respectivas webs para [HTML](https://validator.w3.org/) y [CSS](https://jigsaw.w3.org/css-validator/), comprobándose que todo estaba correcto antes de dar el trabajo como finalizado. 
 
-### 3. Minify
+### 5. Minify
 
 Usando [Minify](https://cssminifier.com/) se puede minimizar el código utilizado en los CSS, por lo que se ha utilizado y se ha indentado el resultado obtenido.
